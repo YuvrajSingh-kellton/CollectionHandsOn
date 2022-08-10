@@ -1,0 +1,15 @@
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.csproj.AssemblyReference.cache
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.AssemblyInfoInputs.cache
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.AssemblyInfo.cs
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.csproj.CoreCompileInputs.cache
+D:\C# Programs\CollectionHandsOn\bin\Debug\net6.0\CollectionHandsOn.exe
+D:\C# Programs\CollectionHandsOn\bin\Debug\net6.0\CollectionHandsOn.deps.json
+D:\C# Programs\CollectionHandsOn\bin\Debug\net6.0\CollectionHandsOn.runtimeconfig.json
+D:\C# Programs\CollectionHandsOn\bin\Debug\net6.0\CollectionHandsOn.dll
+D:\C# Programs\CollectionHandsOn\bin\Debug\net6.0\CollectionHandsOn.pdb
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.dll
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\refint\CollectionHandsOn.dll
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.pdb
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\CollectionHandsOn.genruntimeconfig.cache
+D:\C# Programs\CollectionHandsOn\obj\Debug\net6.0\ref\CollectionHandsOn.dll
